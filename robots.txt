@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ampn.js.org/test/sitemap_index.xml
